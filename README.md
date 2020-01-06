@@ -76,6 +76,9 @@ $v->passes();   // returns true;
 Notice that you can validate any value with the new rules. The only reason why this package is called "Password Strength Package" is that it describes its foremost purpose.
 
 # History
+**[Laravel 6]**
+
+Forked from https://github.com/schuppo/PasswordStrengthPackage and made to work with Laravel 6
 
 **[Laravel 5 / Laravel 4]**
 
